@@ -1,4 +1,4 @@
-# Analyzing Student SAT Scores
+# Analyzing Student SAT Scores in Schools in North America
 
 ## Schema
 ```sql
